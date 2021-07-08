@@ -1,5 +1,5 @@
 ---
-title: "my Test Project"
+title: "My journal paper"
 author: "Aleksandra Pawlik"
 date: "08/07/2021"
 output:
