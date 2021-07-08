@@ -21,6 +21,13 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
+# testing how calculating mean works
+```{r}
+mean( x <- 1:10)
+```
+
+
+
 ## Including Plots - how about I make a change here
 
 You can also embed plots, for example:
